@@ -1,0 +1,5 @@
+# YOUR NOT-SECRET SETTINGS HERE
+
+HOST = None
+DB = "AdsTracking"
+PORT = 27017
